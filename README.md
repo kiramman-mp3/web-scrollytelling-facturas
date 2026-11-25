@@ -1,5 +1,7 @@
 # La Huelga de los Panaderos (Buenos Aires, 1888)
 
+> **Proyecto pequeño, pendiente de refactorización.** Lo mantengo publicado como parte de mi recorrido. Mis proyectos actuales están en [madebyjohan.xyz](https://madebyjohan.xyz/proyectos).
+
 > **Una experiencia web narrativa sobre cómo la protesta obrera anarquista bautizó para siempre a las facturas argentinas.**
 
 ---
